@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/adityaasharma27/orderapp.git"
+    "url": "git+https://github.com/Aditi-0109/OrderAppAPI.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/adityaasharma27/orderapp/issues"
+    "url": "https://github.com/Aditi-0109/OrderAppAPI/issues"
   },
-  "homepage": "https://github.com/adityaasharma27/orderapp#readme",
+  "homepage": "https://github.com/Aditi-0109/orderapp#readme",
   "dependencies": {
     "express": "^4.18.2",
     "mongoose": "^8.0.0"
