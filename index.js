@@ -6,7 +6,7 @@ const Schema = mongoose.Schema;
 const express = require("express");
 const app = express();
 const PORT = 5000;
-const DATABASE_URL = "mongodb+srv://orderappuser:orderapppassword@orderapp.e2vzomm.mongodb.net/?retryWrites=true&w=majority";
+const DATABASE_URL = "mongodb+srv://orderappuser:orderapppassword@orderapp.wypnkci.mongodb.net/?retryWrites=true&w=majority";
 app.use(express.json());
 
 main().catch((err) => console.log(err));
